@@ -54,7 +54,7 @@ Computer Networks,CommonCrawl Web Data over 7 years,http://commoncrawl.org/the-d
 Computer Networks,CRAWDAD Wireless datasets from Dartmouth Univ.,http://crawdad.cs.dartmouth.edu/
 Computer Networks,Criteo click-through data,http://labs.criteo.com/2015/03/criteo-releses-its-new-dataset/
 Computer Networks,Open Mobile Data by MobiPerf,https://console.developers.google.com/storage/openmobiledata_public/
-Computer Networks,UCSD Network Telescope, IPv4 /8 net,http://www.caida.org/projects/network_telescope/
+Computer Networks,UCSD Network Telescope IPv4 /8 net,http://www.caida.org/projects/network_telescope/
 Data Challenges,Challenges in Machine Learning,http://www.chalearn.org/
 Data Challenges,D4D Challenge of Orange,http://www.d4d.orange.com/en/home
 Data Challenges,DrivenData Competitions for Social Good,http://www.drivendata.org/
@@ -92,7 +92,7 @@ Finance,Yahoo Finance,http://finance.yahoo.com/
 Geology,USGS Earthquake Archives,http://earthquake.usgs.gov/earthquakes/search/
 Geology,Smithsonian Institution Global Volcano and Eruption Database,http://www.volcano.si.edu
 GeoSpace/GIS,BODC - marine data of ~22K vars,http://www.bodc.ac.uk/data/where_to_find_data/
-GeoSpace/GIS,Cambridge, MA, US, GIS data on GitHub,http://cambridgegis.github.io/gisdata.html
+GeoSpace/GIS,Cambridge MA US GIS data on GitHub,http://cambridgegis.github.io/gisdata.html
 GeoSpace/GIS,EOSDIS - NASA's earth observing system data,http://sedac.ciesin.columbia.edu/data/sets/browse
 GeoSpace/GIS,Factual Global Location Data,http://www.factual.com/
 GeoSpace/GIS,Geo Spatial Data from ASU,http://geodacenter.asu.edu/datalist/
@@ -108,8 +108,8 @@ GeoSpace/GIS,World countries in multiple formats,https://github.com/mledoze/coun
 GeoSpace/GIS,List of all countries in all languages,https://github.com/umpirsky/country-list
 GeoSpace/GIS,OpenAddresses,http://openaddresses.io/
 Healthcare,EHDP Large Health Data Sets,http://www.ehdp.com/vitalnet/datasets.htm
-Healthcare,Gapminder World, demographic databases,http://www.gapminder.org/data/
-Healthcare,Medicare Coverage Database (MCD), U.S.,http://www.cms.gov/medicare-coverage-database/
+Healthcare,Gapminder World demographic databases,http://www.gapminder.org/data/
+Healthcare,Medicare Coverage Database (MCD) U.S.,http://www.cms.gov/medicare-coverage-database/
 Healthcare,Medicare Data Engine of medicare.gov Data,https://data.medicare.gov/
 Healthcare,Medicare Data File,http://go.cms.gov/19xxPN4
 Healthcare,Number of Ebola Cases and Deaths in Affected Countries (2014),https://data.hdx.rwlabs.org/dataset/ebola-cases-2014
@@ -121,16 +121,16 @@ Image Processing,Animals with attributes,http://attributes.kyb.tuebingen.mpg.de/
 Image Processing,Affective Image Classification,http://www.imageemotion.org/
 Image Processing,Face Recognition Benchmark,http://www.face-rec.org/databases/
 Image Processing,ImageNet (in WordNet hierarchy),http://www.image-net.org/
-Image Processing,International Affective Picture System, UFL,http://csea.phhp.ufl.edu/media/iapsmessage.html
-Image Processing,Massive Visual Memory Stimuli, MIT,http://cvcl.mit.edu/MM/stimuli.html
-Image Processing,SUN database, MIT,http://groups.csail.mit.edu/vision/SUN/hierarchy.html
+Image Processing,International Affective Picture System UFL,http://csea.phhp.ufl.edu/media/iapsmessage.html
+Image Processing,Massive Visual Memory Stimuli MIT,http://cvcl.mit.edu/MM/stimuli.html
+Image Processing,SUN database MIT,http://groups.csail.mit.edu/vision/SUN/hierarchy.html
 Image Processing,YouTube Faces Database,http://www.cs.tau.ac.il/~wolf/ytfaces/
-Machine Learning
+Machine Learning,n/a,n/a
 Machine Learning,Delve Datasets for classification and regression (Univ. of Toronto),http://www.cs.toronto.edu/~delve/data/datasets.html
 Machine Learning,Discogs Monthly Data,http://www.discogs.com/data/
 Machine Learning,eBay Online Auctions (2012),http://www.modelingonlineauctions.com/datasets
 Machine Learning,IMDb Database,http://www.imdb.com/interfaces
-Machine Learning,Keel Repository for classification, regression and time series,http://sci2s.ugr.es/keel/datasets.php
+Machine Learning,Keel Repository for classification; regression and time series,http://sci2s.ugr.es/keel/datasets.php
 Machine Learning,Lending Club Loan Data,https://www.lendingclub.com/info/download-data.action
 Machine Learning,Machine Learning Data Set Repository,http://mldata.org/
 Machine Learning,Million Song Dataset,http://labrosa.ee.columbia.edu/millionsong/
@@ -152,12 +152,12 @@ Natural Language,ClueWeb12 FACC,http://lemurproject.org/clueweb12/FACC1/
 Natural Language,DBpedia - 4.58M things with 583M facts,http://wiki.dbpedia.org/Datasets
 Natural Language,Flickr Personal Taxonomies,http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html
 Natural Language,Google Books Ngrams (2.2TB),http://aws.amazon.com/datasets/8172056142375670
-Natural Language,Google Web 5gram (1TB, 2006),https://catalog.ldc.upenn.edu/LDC2006T13
+Natural Language,Google Web 5gram (1TB 2006),https://catalog.ldc.upenn.edu/LDC2006T13
 Natural Language,Gutenberg eBooks List,http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs
 Natural Language,Hansards text chunks of Canadian Parliament,http://www.isi.edu/natural-language/download/hansard/
 Natural Language,Machine Translation of European languages,http://statmt.org/wmt11/translation-task.html#download
 Natural Language,SMS Spam Collection in English,http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/
-Natural Language,SaudiNewsNet Collection of Saudi Newspaper Articles (Arabic, 30K articles),https://github.com/ParallelMazen/SaudiNewsNet
+Natural Language,SaudiNewsNet Collection of Saudi Newspaper Articles (Arabic 30K articles),https://github.com/ParallelMazen/SaudiNewsNet
 Natural Language,USENET postings corpus of 2005~2011,http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html
 Natural Language,Wikidata - Wikipedia databases,https://www.wikidata.org/wiki/Wikidata:Database_download
 Natural Language,Wikipedia Links data - 40 Million Entities in Context,https://code.google.com/p/wiki-links/downloads/list
@@ -192,7 +192,7 @@ Search Engines,Academic Torrents of data sharing from UMB,http://academictorrent
 Search Engines,Archive-it from Internet Archive,https://www.archive-it.org/explore?show=Collections
 Search Engines,Datahub.io,http://datahub.io/dataset
 Search Engines,DataMarket (Qlik),https://datamarket.com/data/list/?q=all
-Search Engines,Freebase.com of people, places, and things,http://www.freebase.com/
+Search Engines,Freebase.com of people places and things,http://www.freebase.com/
 Search Engines,Harvard Dataverse Network of scientific data,http://thedata.harvard.edu/dvn/
 Search Engines,ICPSR (UMICH),http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp
 Search Engines,Open Data Certificates (beta),https://certificates.theodi.org/datasets
@@ -205,11 +205,11 @@ Social Networks,Social Twitter Data,http://snap.stanford.edu/data/egonets-Twitte
 Social Networks,Twitter Data for Sentiment Analysis,http://help.sentiment140.com/for-students/
 Social Sciences,Ancestry.com Forum Dataset over 10 years,http://www.cs.cmu.edu/~jelsas/data/ancestry.com/
 Social Sciences,CMU Enron Email of 150 users,http://www.cs.cmu.edu/~enron/
-Social Sciences,EDRM Enron EMail of 151 users, hosted on S3,https://aws.amazon.com/datasets/917205
+Social Sciences,EDRM Enron EMail of 151 users hosted on S3,https://aws.amazon.com/datasets/917205
 Social Sciences,Facebook Data Scrape (2005),https://archive.org/details/oxford-2005-facebook-matrix
 Social Sciences,Facebook Social Networks from LAW (since 2007),http://law.di.unimi.it/datasets.php
 Social Sciences,FBI Hate Crime 2013 - aggregated data,https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013
-Social Sciences,Foursquare Social Network in 2010, 2011,http://www.public.asu.edu/~hgao16/dataset.html
+Social Sciences,Foursquare Social Network in 2010 2011,http://www.public.asu.edu/~hgao16/dataset.html
 Social Sciences,Foursquare from UMN/Sarwat (2013),https://archive.org/details/201309_foursquare_dataset_umn
 Social Sciences,General Social Survey (GSS) since 1972,http://www3.norc.org/GSS+Website/
 Social Sciences,GetGlue - users rating TV shows,http://bit.ly/1aL8XS0
@@ -229,13 +229,13 @@ Social Sciences,UNIMI/LAW Social Network Datasets,http://law.di.unimi.it/dataset
 Social Sciences,Universities Worldwide,http://univ.cc/
 Social Sciences,UPJOHN for Labor Employment Research,http://www.upjohn.org/erdc/erdc.html
 Social Sciences,Yahoo! Graph and Social Data,http://webscope.sandbox.yahoo.com/catalog.php?datatype=g
-Social Sciences,Youtube Video Social Graph in 2007,2008,http://netsg.cs.sfu.ca/youtubedata/
+Social Sciences,Youtube Video Social Graph in 2007 2008,http://netsg.cs.sfu.ca/youtubedata/
 Social Sciences,Google Scholar citation relations,http://www3.cs.stonybrook.edu/~leman/data/gscholar.db
 Social Sciences,Political Polarity Data,http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip
 Social Sciences,GDELT Global Events Database,http://gdeltproject.org/data.html
 Sports,Betfair Historical Exchange Data,http://data.betfair.com/
 Sports,Cricsheet Matches (cricket),http://cricsheet.org/
-Sports,Ergast Formula 1, from 1950 up to date (API),http://ergast.com/mrd/db
+Sports,Ergast Formula 1 from 1950 up to date (API),http://ergast.com/mrd/db
 Sports,Football/Soccer resouces (data and APIs),http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/
 Sports,Lahman's Baseball Database,http://www.seanlahman.com/baseball-archive/statistics/
 Sports,Retrosheet Baseball Statistics,http://www.retrosheet.org/game.htm
@@ -248,9 +248,9 @@ Transportation,Bike Share Systems (BSS) collection,https://github.com/BetaNYC/Bi
 Transportation,Bay Area Bike Share Data,http://www.bayareabikeshare.com/datachallenge
 Transportation,GeoLife GPS Trajectory from Microsoft Research,http://research.microsoft.com/en-us/downloads/b16d359d-d164-469e-9fd4-daa38f2b2e13/
 Transportation,Hubway Million Rides in MA,http://hubwaydatachallenge.org/trip-history-data/
-Transportation,Marine Traffic - ship tracks, port calls and more,https://www.marinetraffic.com/de/p/api-services
+Transportation,Marine Traffic - ship tracks port calls and more,https://www.marinetraffic.com/de/p/api-services
 Transportation,NYC Taxi Trip Data 2013 (FOIA/FOILed),https://archive.org/details/nycTaxiTripData2013
-Transportation,OpenFlights - airport, airline and route data,http://openflights.org/data.html
+Transportation,OpenFlights - airport airline and route data,http://openflights.org/data.html
 Transportation,RITA Airline On-Time Performance data,http://www.transtats.bts.gov/Tables.asp?DB_ID=120
 Transportation,RITA/BTS transport data collection (TranStat),http://www.transtats.bts.gov/DataIndex.asp
 Transportation,Transport for London (TFL),http://www.tfl.gov.uk/info-for/open-data-users/our-feeds
@@ -258,9 +258,9 @@ Transportation,Travel Tracker Survey (TTS) for Chicago,http://www.cmap.illinois.
 Transportation,U.S. Bureau of Transportation Statistics (BTS),http://www.rita.dot.gov/bts/
 Transportation,U.S. Domestic Flights 1990 to 2009,http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a
 Transportation,U.S. Freight Analysis Framework since 2007,http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm
-Complementary Collections,DataWrangling,Some Datasets Available on the Web,http://www.datawrangling.com/some-datasets-available-on-the-web
-Complementary Collections,Inside-r,Finding Data on the Internet,http://www.inside-r.org/howto/finding-data-internet
-Complementary Collections,Quora,Where can I find large datasets open to the public?,http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
-Complementary Collections,RS.io,100+ Interesting Data Sets for Statistics,http://rs.io/2014/05/29/list-of-data-sets.html
-Complementary Collections,StaTrek,Leveraging open data to understand urban lives,http://xiaming.me/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/
-Complementary Collections,OpenDataMonitor,An overview of available open data resources in Europe,http://opendatamonitor.eu
+Complementary Collections,DataWrangling: Some Datasets Available on the Web,http://www.datawrangling.com/some-datasets-available-on-the-web
+Complementary Collections,Inside-r: Finding Data on the Internet,http://www.inside-r.org/howto/finding-data-internet
+Complementary Collections,Quora: Where can I find large datasets open to the public?,http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
+Complementary Collections,RS.io: 100+ Interesting Data Sets for Statistics,http://rs.io/2014/05/29/list-of-data-sets.html
+Complementary Collections,StaTrek: Leveraging open data to understand urban lives,http://xiaming.me/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/
+Complementary Collections,OpenDataMonitor: An overview of available open data resources in Europe,http://opendatamonitor.eu
